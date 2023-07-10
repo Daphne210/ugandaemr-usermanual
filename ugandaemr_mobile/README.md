@@ -4,13 +4,14 @@
 
 ## UgandaEMR Mobile User Manual
 
+This document describes how to use the UgandaEMR Mobile as an extension of UgandaEMR. 
 This document describes how to use the UgandaEMR Mobile as an extension of UgandaEMR.
 
 The supported implementations include:
  
 1 .  [HIV Services](download-patients.md)
 
-2 . [HTS Services](hts-services.md)
+2 . [HTS Services](hts.md)
 
 ## Download UgandaEMR Mobile
 
@@ -32,5 +33,6 @@ Below is the process to uninstalling UgandaEMR mobile appp from the device:
 
 1. Long Press on the icon for UgandaEMR Mobile as shown in the figure below. From the popup Tap on Uninstall to remove the app from the device.
    
+
 
 
